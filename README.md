@@ -1,0 +1,2 @@
+# xdevs.cs
+Version of the xDEVS simulator for C# projects.
